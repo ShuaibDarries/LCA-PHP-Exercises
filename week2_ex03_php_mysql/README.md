@@ -32,30 +32,6 @@ CREATE TABLE employees (
 );
 ```
 
----
-
-## Setup & Run
-
-1. **Copy the folder** into your XAMPP `htdocs` directory:
-   ```
-   C:\xampp\htdocs\week2_ex03_php_mysql\
-   ```
-
-2. **Start Apache and MySQL** from the XAMPP Control Panel.
-   - Ensure MySQL is running on **port 3307**.
-
-3. **Run the setup script** once in your browser:
-   ```
-   http://localhost/week2_ex03_php_mysql/setup.php
-   ```
-
-4. **Open the application:**
-   ```
-   http://localhost/week2_ex03_php_mysql/index.php
-   ```
-
----
-
 ## CRUD Operations
 
 | Operation | Page | Method | Details |
@@ -84,6 +60,3 @@ All **DML operations** (INSERT, UPDATE, DELETE) use **prepared statements** with
 - HTML + CSS
 
 ---
-
-## Author
-TechVibe Junior Developer Programme — Week 2
