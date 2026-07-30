@@ -14,22 +14,6 @@ This folder contains PHP scripts demonstrating operators, conditionals, loops, a
 
 ---
 
-## Setup & Run
-
-1. Copy the `week2_ex02_php_logic/` folder into your **XAMPP `htdocs`** directory:
-   ```
-   C:\xampp\htdocs\week2_ex02_php_logic\
-   ```
-
-2. Start **Apache** from the XAMPP Control Panel.
-
-3. Open each file in your browser:
-   - http://localhost/week2_ex02_php_logic/conditionals.php
-   - http://localhost/week2_ex02_php_logic/loops.php
-   - http://localhost/week2_ex02_php_logic/functions.php
-
----
-
 ## Features Summary
 
 ### conditionals.php
@@ -67,6 +51,3 @@ This folder contains PHP scripts demonstrating operators, conditionals, loops, a
 3. **Find Min & Max** — Accepts an array of numbers and returns the minimum and maximum values.
 
 ---
-
-## Author
-TechVibe Junior Developer Programme — Week 2
